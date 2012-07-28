@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jaudiotagger~svn/!svn/ver/944/trunk/src/org/jaudiotagger/tag/id3/reference
+END
+MediaPlayerRating.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jaudiotagger~svn/!svn/ver/944/trunk/src/org/jaudiotagger/tag/id3/reference/MediaPlayerRating.java
+END
+ID3Rating.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/944/trunk/src/org/jaudiotagger/tag/id3/reference/ID3Rating.java
+END
+MediaMonkeyPlayerRating.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jaudiotagger~svn/!svn/ver/944/trunk/src/org/jaudiotagger/tag/id3/reference/MediaMonkeyPlayerRating.java
+END
+ITunesRating.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/944/trunk/src/org/jaudiotagger/tag/id3/reference/ITunesRating.java
+END

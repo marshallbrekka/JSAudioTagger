@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/asf/data
+END
+AsfExtendedHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/AsfExtendedHeader.java
+END
+AudioStreamChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/AudioStreamChunk.java
+END
+Chunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/Chunk.java
+END
+MetadataContainerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/asf/data/MetadataContainerFactory.java
+END
+ChunkContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/ChunkContainer.java
+END
+VideoStreamChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/VideoStreamChunk.java
+END
+StreamBitratePropertiesChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/StreamBitratePropertiesChunk.java
+END
+ContentDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/832/trunk/src/org/jaudiotagger/audio/asf/data/ContentDescription.java
+END
+LanguageList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/LanguageList.java
+END
+EncodingChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/EncodingChunk.java
+END
+ContentBranding.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/ContentBranding.java
+END
+MetadataDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/MetadataDescriptor.java
+END
+GUIDFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/GUIDFormatException.java
+END
+AsfHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/asf/data/AsfHeader.java
+END
+MetadataContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/asf/data/MetadataContainer.java
+END
+EncryptionChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/asf/data/EncryptionChunk.java
+END
+ContainerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/ContainerType.java
+END
+StreamChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/StreamChunk.java
+END
+GUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/GUID.java
+END
+FileHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/data/FileHeader.java
+END

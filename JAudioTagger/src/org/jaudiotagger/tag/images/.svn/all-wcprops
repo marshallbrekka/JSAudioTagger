@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jaudiotagger~svn/!svn/ver/975/trunk/src/org/jaudiotagger/tag/images
+END
+ImageHandlingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jaudiotagger~svn/!svn/ver/969/trunk/src/org/jaudiotagger/tag/images/ImageHandlingFactory.java
+END
+ImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/969/trunk/src/org/jaudiotagger/tag/images/ImageHandler.java
+END
+AndroidImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/969/trunk/src/org/jaudiotagger/tag/images/AndroidImageHandler.java
+END
+ArtworkFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/975/trunk/src/org/jaudiotagger/tag/images/ArtworkFactory.java
+END
+StandardImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jaudiotagger~svn/!svn/ver/969/trunk/src/org/jaudiotagger/tag/images/StandardImageHandler.java
+END
+Images.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jaudiotagger~svn/!svn/ver/969/trunk/src/org/jaudiotagger/tag/images/Images.java
+END
+Artwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jaudiotagger~svn/!svn/ver/969/trunk/src/org/jaudiotagger/tag/images/Artwork.java
+END
+AndroidArtwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/975/trunk/src/org/jaudiotagger/tag/images/AndroidArtwork.java
+END
+StandardArtwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/975/trunk/src/org/jaudiotagger/tag/images/StandardArtwork.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/mp4
+END
+Mp4TagField.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/tag/mp4/Mp4TagField.java
+END
+Mp4NonStandardFieldKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/mp4/Mp4NonStandardFieldKey.java
+END
+Mp4Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/mp4/Mp4Tag.java
+END
+Mp4TagCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jaudiotagger~svn/!svn/ver/998/trunk/src/org/jaudiotagger/tag/mp4/Mp4TagCreator.java
+END
+Mp4TagFieldSubType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/921/trunk/src/org/jaudiotagger/tag/mp4/Mp4TagFieldSubType.java
+END
+Mp4FieldKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/mp4/Mp4FieldKey.java
+END

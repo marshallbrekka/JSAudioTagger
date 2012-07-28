@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/id3
+END
+ID3TextEncodingConversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/907/trunk/src/org/jaudiotagger/tag/id3/ID3TextEncodingConversion.java
+END
+ID3v11Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/id3/ID3v11Tag.java
+END
+ID3v1FieldKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/id3/ID3v1FieldKey.java
+END
+ID3Unsynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/856/trunk/src/org/jaudiotagger/tag/id3/ID3Unsynchronization.java
+END
+AbstractID3v1Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/id3/AbstractID3v1Tag.java
+END
+ID3v22Frames.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jaudiotagger~svn/!svn/ver/1036/trunk/src/org/jaudiotagger/tag/id3/ID3v22Frames.java
+END
+AbstractID3v2Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/1053/trunk/src/org/jaudiotagger/tag/id3/AbstractID3v2Tag.java
+END
+ID3v24Frames.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/id3/ID3v24Frames.java
+END
+AbstractTagFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/973/trunk/src/org/jaudiotagger/tag/id3/AbstractTagFrame.java
+END
+AbstractTagItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/857/trunk/src/org/jaudiotagger/tag/id3/AbstractTagItem.java
+END
+ID3v22Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/id3/ID3v22Frame.java
+END
+ID3v23Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/id3/ID3v23Frame.java
+END
+Id3FieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/464/trunk/src/org/jaudiotagger/tag/id3/Id3FieldType.java
+END
+ID3v24Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/id3/ID3v24Frame.java
+END
+ID3v22FieldKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/1007/trunk/src/org/jaudiotagger/tag/id3/ID3v22FieldKey.java
+END
+ID3v1TagField.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/src/org/jaudiotagger/tag/id3/ID3v1TagField.java
+END
+ID3v24FieldKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/id3/ID3v24FieldKey.java
+END
+AbstractTagFrameBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/1028/trunk/src/org/jaudiotagger/tag/id3/AbstractTagFrameBody.java
+END
+ID3v2ChapterFrames.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/830/trunk/src/org/jaudiotagger/tag/id3/ID3v2ChapterFrames.java
+END
+ID3Tags.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jaudiotagger~svn/!svn/ver/919/trunk/src/org/jaudiotagger/tag/id3/ID3Tags.java
+END
+AbstractID3Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jaudiotagger~svn/!svn/ver/973/trunk/src/org/jaudiotagger/tag/id3/AbstractID3Tag.java
+END
+AbstractTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/id3/AbstractTag.java
+END
+ID3v1Iterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/id3/ID3v1Iterator.java
+END
+ID3Compression.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jaudiotagger~svn/!svn/ver/905/trunk/src/org/jaudiotagger/tag/id3/ID3Compression.java
+END
+ID3v22Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jaudiotagger~svn/!svn/ver/1031/trunk/src/org/jaudiotagger/tag/id3/ID3v22Tag.java
+END
+ID3v23Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jaudiotagger~svn/!svn/ver/1031/trunk/src/org/jaudiotagger/tag/id3/ID3v23Tag.java
+END
+ID3v22PreferredFrameOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jaudiotagger~svn/!svn/ver/898/trunk/src/org/jaudiotagger/tag/id3/ID3v22PreferredFrameOrderComparator.java
+END
+ID3v24Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jaudiotagger~svn/!svn/ver/1031/trunk/src/org/jaudiotagger/tag/id3/ID3v24Tag.java
+END
+ID3v23PreferredFrameOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jaudiotagger~svn/!svn/ver/898/trunk/src/org/jaudiotagger/tag/id3/ID3v23PreferredFrameOrderComparator.java
+END
+ID3v23Frames.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/id3/ID3v23Frames.java
+END
+ID3v24PreferredFrameOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jaudiotagger~svn/!svn/ver/898/trunk/src/org/jaudiotagger/tag/id3/ID3v24PreferredFrameOrderComparator.java
+END
+ID3Frames.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jaudiotagger~svn/!svn/ver/932/trunk/src/org/jaudiotagger/tag/id3/ID3Frames.java
+END
+ID3v1Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jaudiotagger~svn/!svn/ver/1026/trunk/src/org/jaudiotagger/tag/id3/ID3v1Tag.java
+END
+AbstractID3v2Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/1028/trunk/src/org/jaudiotagger/tag/id3/AbstractID3v2Frame.java
+END
+ID3v23FieldKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/id3/ID3v23FieldKey.java
+END
+ID3SyncSafeInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/873/trunk/src/org/jaudiotagger/tag/id3/ID3SyncSafeInteger.java
+END

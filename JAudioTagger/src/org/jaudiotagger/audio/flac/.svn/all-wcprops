@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jaudiotagger~svn/!svn/ver/1058/trunk/src/org/jaudiotagger/audio/flac
+END
+FlacAudioHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/1058/trunk/src/org/jaudiotagger/audio/flac/FlacAudioHeader.java
+END
+FlacTagCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/audio/flac/FlacTagCreator.java
+END
+FlacFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/flac/FlacFileWriter.java
+END
+FlacInfoReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/1058/trunk/src/org/jaudiotagger/audio/flac/FlacInfoReader.java
+END
+FlacStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/964/trunk/src/org/jaudiotagger/audio/flac/FlacStreamReader.java
+END
+FlacTagReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/1008/trunk/src/org/jaudiotagger/audio/flac/FlacTagReader.java
+END
+FlacFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/903/trunk/src/org/jaudiotagger/audio/flac/FlacFileReader.java
+END
+FlacTagWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/1042/trunk/src/org/jaudiotagger/audio/flac/FlacTagWriter.java
+END

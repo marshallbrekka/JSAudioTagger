@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag
+END
+InvalidTagException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/InvalidTagException.java
+END
+InvalidDataTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/InvalidDataTypeException.java
+END
+FieldDataInvalidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/FieldDataInvalidException.java
+END
+TagNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/TagNotFoundException.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jaudiotagger~svn/!svn/ver/1055/trunk/src/org/jaudiotagger/tag/Tag.java
+END
+TagField.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/tag/TagField.java
+END
+InvalidFrameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/InvalidFrameException.java
+END
+InvalidFrameIdentifierException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/InvalidFrameIdentifierException.java
+END
+TagTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/tag/TagTextField.java
+END
+KeyNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/1026/trunk/src/org/jaudiotagger/tag/KeyNotFoundException.java
+END
+PaddingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/917/trunk/src/org/jaudiotagger/tag/PaddingException.java
+END
+TagOptionSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/1055/trunk/src/org/jaudiotagger/tag/TagOptionSingleton.java
+END
+EmptyFrameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/EmptyFrameException.java
+END
+TagException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/TagException.java
+END
+FieldKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/FieldKey.java
+END

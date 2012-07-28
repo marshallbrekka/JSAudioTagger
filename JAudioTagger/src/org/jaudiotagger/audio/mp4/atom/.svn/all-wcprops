@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jaudiotagger~svn/!svn/ver/1000/trunk/src/org/jaudiotagger/audio/mp4/atom
+END
+Mp4DrmsBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/713/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4DrmsBox.java
+END
+NullPadding.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/717/trunk/src/org/jaudiotagger/audio/mp4/atom/NullPadding.java
+END
+Mp4StcoBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/946/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4StcoBox.java
+END
+Mp4MdhdBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4MdhdBox.java
+END
+Mp4StsdBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/713/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4StsdBox.java
+END
+Mp4FreeBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/946/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4FreeBox.java
+END
+Mp4FtypBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/945/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4FtypBox.java
+END
+Mp4MetaBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/946/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4MetaBox.java
+END
+Mp4BoxHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4BoxHeader.java
+END
+Mp4HdlrBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/1000/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4HdlrBox.java
+END
+Mp4MvhdBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4MvhdBox.java
+END
+Mp4EsdsBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4EsdsBox.java
+END
+Mp4AlacBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/713/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4AlacBox.java
+END
+Mp4Mp4aBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/src/org/jaudiotagger/audio/mp4/atom/Mp4Mp4aBox.java
+END
+AbstractMp4Box.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/512/trunk/src/org/jaudiotagger/audio/mp4/atom/AbstractMp4Box.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jaudiotagger~svn/!svn/ver/832/trunk/src/org/jaudiotagger/audio/exceptions
+END
+NullBoxIdException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jaudiotagger~svn/!svn/ver/717/trunk/src/org/jaudiotagger/audio/exceptions/NullBoxIdException.java
+END
+UnableToModifyFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jaudiotagger~svn/!svn/ver/707/trunk/src/org/jaudiotagger/audio/exceptions/UnableToModifyFileException.java
+END
+UnableToRenameFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jaudiotagger~svn/!svn/ver/708/trunk/src/org/jaudiotagger/audio/exceptions/UnableToRenameFileException.java
+END
+InvalidAudioFrameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jaudiotagger~svn/!svn/ver/345/trunk/src/org/jaudiotagger/audio/exceptions/InvalidAudioFrameException.java
+END
+CannotReadVideoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jaudiotagger~svn/!svn/ver/711/trunk/src/org/jaudiotagger/audio/exceptions/CannotReadVideoException.java
+END
+ModifyVetoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jaudiotagger~svn/!svn/ver/832/trunk/src/org/jaudiotagger/audio/exceptions/ModifyVetoException.java
+END
+InvalidBoxHeaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jaudiotagger~svn/!svn/ver/720/trunk/src/org/jaudiotagger/audio/exceptions/InvalidBoxHeaderException.java
+END
+CannotWriteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jaudiotagger~svn/!svn/ver/832/trunk/src/org/jaudiotagger/audio/exceptions/CannotWriteException.java
+END
+ReadOnlyFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jaudiotagger~svn/!svn/ver/345/trunk/src/org/jaudiotagger/audio/exceptions/ReadOnlyFileException.java
+END
+UnableToCreateFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jaudiotagger~svn/!svn/ver/707/trunk/src/org/jaudiotagger/audio/exceptions/UnableToCreateFileException.java
+END
+CannotReadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/exceptions/CannotReadException.java
+END

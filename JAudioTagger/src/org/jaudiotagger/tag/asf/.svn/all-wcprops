@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/asf
+END
+AsfTagBannerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/src/org/jaudiotagger/tag/asf/AsfTagBannerField.java
+END
+AbstractAsfTagImageField.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jaudiotagger~svn/!svn/ver/969/trunk/src/org/jaudiotagger/tag/asf/AbstractAsfTagImageField.java
+END
+AsfTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/asf/AsfTag.java
+END
+AsfFieldKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/1059/trunk/src/org/jaudiotagger/tag/asf/AsfFieldKey.java
+END
+AsfTagCoverField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/src/org/jaudiotagger/tag/asf/AsfTagCoverField.java
+END
+AsfTagField.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/src/org/jaudiotagger/tag/asf/AsfTagField.java
+END
+AsfTagTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/src/org/jaudiotagger/tag/asf/AsfTagTextField.java
+END

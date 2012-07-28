@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jaudiotagger~svn/!svn/ver/1056/trunk/src/org/jaudiotagger/audio/mp4
+END
+Mp4InfoReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/1056/trunk/src/org/jaudiotagger/audio/mp4/Mp4InfoReader.java
+END
+Mp4TagReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/audio/mp4/Mp4TagReader.java
+END
+EncoderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/src/org/jaudiotagger/audio/mp4/EncoderType.java
+END
+Mp4AtomTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jaudiotagger~svn/!svn/ver/1023/trunk/src/org/jaudiotagger/audio/mp4/Mp4AtomTree.java
+END
+Mp4FileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/mp4/Mp4FileReader.java
+END
+Mp4AtomIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/1004/trunk/src/org/jaudiotagger/audio/mp4/Mp4AtomIdentifier.java
+END
+Mp4TagWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/1021/trunk/src/org/jaudiotagger/audio/mp4/Mp4TagWriter.java
+END
+Mp4AudioHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/src/org/jaudiotagger/audio/mp4/Mp4AudioHeader.java
+END
+Mp4FileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/mp4/Mp4FileWriter.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree
+END
+MutableTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree/MutableTreeNode.java
+END
+TreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree/TreeModel.java
+END
+TreeModelEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree/TreeModelEvent.java
+END
+EventListenerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree/EventListenerList.java
+END
+DefaultMutableTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree/DefaultMutableTreeNode.java
+END
+DefaultTreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree/DefaultTreeModel.java
+END
+TreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree/TreeNode.java
+END
+TreeModelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree/TreeModelListener.java
+END
+TreePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/src/org/jaudiotagger/utils/tree/TreePath.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jaudiotagger~svn/!svn/ver/858/trunk/src/org/jaudiotagger/audio/asf/util
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/858/trunk/src/org/jaudiotagger/audio/asf/util/Utils.java
+END
+TagConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/src/org/jaudiotagger/audio/asf/util/TagConverter.java
+END
+ChunkPositionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/src/org/jaudiotagger/audio/asf/util/ChunkPositionComparator.java
+END

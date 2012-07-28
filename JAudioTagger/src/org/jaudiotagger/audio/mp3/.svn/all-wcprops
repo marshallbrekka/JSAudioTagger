@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jaudiotagger~svn/!svn/ver/1057/trunk/src/org/jaudiotagger/audio/mp3
+END
+MP3File.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jaudiotagger~svn/!svn/ver/1055/trunk/src/org/jaudiotagger/audio/mp3/MP3File.java
+END
+XingFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/996/trunk/src/org/jaudiotagger/audio/mp3/XingFrame.java
+END
+MP3FileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/mp3/MP3FileReader.java
+END
+LameFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/832/trunk/src/org/jaudiotagger/audio/mp3/LameFrame.java
+END
+MP3AudioHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/1057/trunk/src/org/jaudiotagger/audio/mp3/MP3AudioHeader.java
+END
+MP3FileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/644/trunk/src/org/jaudiotagger/audio/mp3/MP3FileWriter.java
+END
+MPEGFrameHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/970/trunk/src/org/jaudiotagger/audio/mp3/MPEGFrameHeader.java
+END
+ByteArrayMP3AudioHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/996/trunk/src/org/jaudiotagger/audio/mp3/ByteArrayMP3AudioHeader.java
+END
+VbriFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/996/trunk/src/org/jaudiotagger/audio/mp3/VbriFrame.java
+END

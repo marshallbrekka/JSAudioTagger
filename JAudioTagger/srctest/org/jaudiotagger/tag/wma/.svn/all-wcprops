@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jaudiotagger~svn/!svn/ver/1042/trunk/srctest/org/jaudiotagger/tag/wma
+END
+ConcurrentWritesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/1042/trunk/srctest/org/jaudiotagger/tag/wma/ConcurrentWritesTest.java
+END
+WmaTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/830/trunk/srctest/org/jaudiotagger/tag/wma/WmaTestCase.java
+END
+WmaDescriptionLocationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/srctest/org/jaudiotagger/tag/wma/WmaDescriptionLocationTest.java
+END
+TagConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/srctest/org/jaudiotagger/tag/wma/TagConverterTest.java
+END
+WmaContentDescriptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/srctest/org/jaudiotagger/tag/wma/WmaContentDescriptionTest.java
+END
+WmaContainerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/803/trunk/srctest/org/jaudiotagger/tag/wma/WmaContainerTest.java
+END
+WmaSimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/1011/trunk/srctest/org/jaudiotagger/tag/wma/WmaSimpleTest.java
+END

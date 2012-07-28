@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jaudiotagger~svn/!svn/ver/1051/trunk/src/org/jaudiotagger/tag/datatype
+END
+AbstractDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/923/trunk/src/org/jaudiotagger/tag/datatype/AbstractDataType.java
+END
+Lyrics3Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/Lyrics3Line.java
+END
+NumberVariableLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/NumberVariableLength.java
+END
+ID3v2LyricLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/ID3v2LyricLine.java
+END
+HashMapInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/src/org/jaudiotagger/tag/datatype/HashMapInterface.java
+END
+BooleanByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/920/trunk/src/org/jaudiotagger/tag/datatype/BooleanByte.java
+END
+StringDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/StringDate.java
+END
+TextEncodedStringNullTerminated.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/datatype/TextEncodedStringNullTerminated.java
+END
+TextEncodedStringSizeTerminated.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/datatype/TextEncodedStringSizeTerminated.java
+END
+BooleanString.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/BooleanString.java
+END
+PartOfSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/1051/trunk/src/org/jaudiotagger/tag/datatype/PartOfSet.java
+END
+StringHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/StringHashMap.java
+END
+NumberFixedLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/datatype/NumberFixedLength.java
+END
+ByteArraySizeTerminated.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/datatype/ByteArraySizeTerminated.java
+END
+Lyrics3TimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/Lyrics3TimeStamp.java
+END
+AbstractValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/AbstractValuePair.java
+END
+AbstractIntStringValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/AbstractIntStringValuePair.java
+END
+StringNullTerminated.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/StringNullTerminated.java
+END
+StringSizeTerminated.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/899/trunk/src/org/jaudiotagger/tag/datatype/StringSizeTerminated.java
+END
+MultipleTextEncodedStringNullTerminated.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jaudiotagger~svn/!svn/ver/890/trunk/src/org/jaudiotagger/tag/datatype/MultipleTextEncodedStringNullTerminated.java
+END
+StringDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/StringDateTime.java
+END
+StringFixedLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/tag/datatype/StringFixedLength.java
+END
+AbstractStringStringValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/AbstractStringStringValuePair.java
+END
+AbstractString.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/899/trunk/src/org/jaudiotagger/tag/datatype/AbstractString.java
+END
+NumberHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/857/trunk/src/org/jaudiotagger/tag/datatype/NumberHashMap.java
+END
+PairedTextEncodedStringNullTerminated.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jaudiotagger~svn/!svn/ver/1005/trunk/src/org/jaudiotagger/tag/datatype/PairedTextEncodedStringNullTerminated.java
+END
+Lyrics3Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/datatype/Lyrics3Image.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jaudiotagger~svn/!svn/ver/923/trunk/src/org/jaudiotagger/tag/datatype/Pair.java
+END
+DataTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jaudiotagger~svn/!svn/ver/520/trunk/src/org/jaudiotagger/tag/datatype/DataTypes.java
+END

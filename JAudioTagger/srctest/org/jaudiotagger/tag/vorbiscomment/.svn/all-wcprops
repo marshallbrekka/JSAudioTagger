@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jaudiotagger~svn/!svn/ver/1042/trunk/srctest/org/jaudiotagger/tag/vorbiscomment
+END
+ConcurrentWritesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jaudiotagger~svn/!svn/ver/1042/trunk/srctest/org/jaudiotagger/tag/vorbiscomment/ConcurrentWritesTest.java
+END
+VorbisImageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/srctest/org/jaudiotagger/tag/vorbiscomment/VorbisImageTest.java
+END
+VorbisWriteTagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jaudiotagger~svn/!svn/ver/902/trunk/srctest/org/jaudiotagger/tag/vorbiscomment/VorbisWriteTagTest.java
+END
+VorbisReadTagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jaudiotagger~svn/!svn/ver/936/trunk/srctest/org/jaudiotagger/tag/vorbiscomment/VorbisReadTagTest.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jaudiotagger~svn/!svn/ver/1056/trunk/src/org/jaudiotagger/audio/generic
+END
+AbstractTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/1028/trunk/src/org/jaudiotagger/audio/generic/AbstractTag.java
+END
+AbstractTagCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/generic/AbstractTagCreator.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jaudiotagger~svn/!svn/ver/997/trunk/src/org/jaudiotagger/audio/generic/Utils.java
+END
+ModificationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/920/trunk/src/org/jaudiotagger/audio/generic/ModificationHandler.java
+END
+AudioFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/audio/generic/AudioFileReader.java
+END
+GenericAudioHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/1056/trunk/src/org/jaudiotagger/audio/generic/GenericAudioHeader.java
+END
+AudioFileModificationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/src/org/jaudiotagger/audio/generic/AudioFileModificationAdapter.java
+END
+GenericTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/1015/trunk/src/org/jaudiotagger/audio/generic/GenericTag.java
+END
+AudioFileModificationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/src/org/jaudiotagger/audio/generic/AudioFileModificationListener.java
+END
+AudioFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/1022/trunk/src/org/jaudiotagger/audio/generic/AudioFileWriter.java
+END

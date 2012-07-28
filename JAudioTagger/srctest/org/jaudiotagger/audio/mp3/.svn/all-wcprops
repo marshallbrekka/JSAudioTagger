@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jaudiotagger~svn/!svn/ver/970/trunk/srctest/org/jaudiotagger/audio/mp3
+END
+LoggingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/700/trunk/srctest/org/jaudiotagger/audio/mp3/LoggingTest.java
+END
+MP3AudioHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jaudiotagger~svn/!svn/ver/970/trunk/srctest/org/jaudiotagger/audio/mp3/MP3AudioHeaderTest.java
+END

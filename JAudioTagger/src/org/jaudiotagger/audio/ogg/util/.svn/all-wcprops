@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jaudiotagger~svn/!svn/ver/1056/trunk/src/org/jaudiotagger/audio/ogg/util
+END
+OggPageHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/965/trunk/src/org/jaudiotagger/audio/ogg/util/OggPageHeader.java
+END
+VorbisIdentificationHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/ogg/util/VorbisIdentificationHeader.java
+END
+OggInfoReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/1056/trunk/src/org/jaudiotagger/audio/ogg/util/OggInfoReader.java
+END
+OggCRCFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/audio/ogg/util/OggCRCFactory.java
+END
+VorbisHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/512/trunk/src/org/jaudiotagger/audio/ogg/util/VorbisHeader.java
+END
+VorbisPacketType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jaudiotagger~svn/!svn/ver/512/trunk/src/org/jaudiotagger/audio/ogg/util/VorbisPacketType.java
+END
+VorbisSetupHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jaudiotagger~svn/!svn/ver/512/trunk/src/org/jaudiotagger/audio/ogg/util/VorbisSetupHeader.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/srctest/org/jaudiotagger/audio/ogg
+END
+OggPageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/822/trunk/srctest/org/jaudiotagger/audio/ogg/OggPageTest.java
+END
+OggVorbisHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/845/trunk/srctest/org/jaudiotagger/audio/ogg/OggVorbisHeaderTest.java
+END

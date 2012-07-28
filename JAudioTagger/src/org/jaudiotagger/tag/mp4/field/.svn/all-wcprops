@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jaudiotagger~svn/!svn/ver/1020/trunk/src/org/jaudiotagger/tag/mp4/field
+END
+Mp4TagCoverField.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4TagCoverField.java
+END
+Mp4TagRawBinaryField.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jaudiotagger~svn/!svn/ver/778/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4TagRawBinaryField.java
+END
+Mp4TagReverseDnsField.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jaudiotagger~svn/!svn/ver/832/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4TagReverseDnsField.java
+END
+Mp4DiscNoField.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/978/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4DiscNoField.java
+END
+Mp4TagByteField.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/921/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4TagByteField.java
+END
+Mp4GenreField.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/1020/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4GenreField.java
+END
+Mp4TagBinaryField.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jaudiotagger~svn/!svn/ver/832/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4TagBinaryField.java
+END
+Mp4TagTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4TagTextField.java
+END
+Mp4FieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/778/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4FieldType.java
+END
+Mp4TrackField.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/978/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4TrackField.java
+END
+Mp4TagTextNumberField.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jaudiotagger~svn/!svn/ver/827/trunk/src/org/jaudiotagger/tag/mp4/field/Mp4TagTextNumberField.java
+END

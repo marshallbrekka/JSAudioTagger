@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jaudiotagger~svn/!svn/ver/1056/trunk/src/org/jaudiotagger/audio/wav
+END
+WavFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/755/trunk/src/org/jaudiotagger/audio/wav/WavFileReader.java
+END
+WavTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jaudiotagger~svn/!svn/ver/512/trunk/src/org/jaudiotagger/audio/wav/WavTag.java
+END
+WavFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/src/org/jaudiotagger/audio/wav/WavFileWriter.java
+END

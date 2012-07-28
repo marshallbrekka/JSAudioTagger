@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jaudiotagger~svn/!svn/ver/1042/trunk/srctest/org/jaudiotagger/tag/flac
+END
+ConcurrentWritesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jaudiotagger~svn/!svn/ver/1042/trunk/srctest/org/jaudiotagger/tag/flac/ConcurrentWritesTest.java
+END
+FlacWriteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/1009/trunk/srctest/org/jaudiotagger/tag/flac/FlacWriteTest.java
+END
+FlacReadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/1009/trunk/srctest/org/jaudiotagger/tag/flac/FlacReadTest.java
+END

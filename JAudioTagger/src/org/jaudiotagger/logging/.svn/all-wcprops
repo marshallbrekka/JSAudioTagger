@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jaudiotagger~svn/!svn/ver/1027/trunk/src/org/jaudiotagger/logging
+END
+Hex.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jaudiotagger~svn/!svn/ver/819/trunk/src/org/jaudiotagger/logging/Hex.java
+END
+LogFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/logging/LogFormatter.java
+END
+XMLTagDisplayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/logging/XMLTagDisplayFormatter.java
+END
+AbstractTagDisplayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/logging/AbstractTagDisplayFormatter.java
+END
+FileSystemMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/707/trunk/src/org/jaudiotagger/logging/FileSystemMessage.java
+END
+ErrorMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jaudiotagger~svn/!svn/ver/1027/trunk/src/org/jaudiotagger/logging/ErrorMessage.java
+END
+PlainTextTagDisplayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jaudiotagger~svn/!svn/ver/792/trunk/src/org/jaudiotagger/logging/PlainTextTagDisplayFormatter.java
+END

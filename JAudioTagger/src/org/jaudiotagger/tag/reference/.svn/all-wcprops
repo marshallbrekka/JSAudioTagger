@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jaudiotagger~svn/!svn/ver/1049/trunk/src/org/jaudiotagger/tag/reference
+END
+ISOScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/941/trunk/src/org/jaudiotagger/tag/reference/ISOScript.java
+END
+PictureTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/775/trunk/src/org/jaudiotagger/tag/reference/PictureTypes.java
+END
+GenreTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/848/trunk/src/org/jaudiotagger/tag/reference/GenreTypes.java
+END
+Languages.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jaudiotagger~svn/!svn/ver/942/trunk/src/org/jaudiotagger/tag/reference/Languages.java
+END
+MusicalKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/tag/reference/MusicalKey.java
+END
+Tagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/944/trunk/src/org/jaudiotagger/tag/reference/Tagger.java
+END
+ID3V2Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/1049/trunk/src/org/jaudiotagger/tag/reference/ID3V2Version.java
+END
+ISOCountry.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/941/trunk/src/org/jaudiotagger/tag/reference/ISOCountry.java
+END

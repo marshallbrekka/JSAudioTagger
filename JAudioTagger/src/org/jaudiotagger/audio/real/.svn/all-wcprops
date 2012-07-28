@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jaudiotagger~svn/!svn/ver/830/trunk/src/org/jaudiotagger/audio/real
+END
+RealTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jaudiotagger~svn/!svn/ver/830/trunk/src/org/jaudiotagger/audio/real/RealTag.java
+END
+RealFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/830/trunk/src/org/jaudiotagger/audio/real/RealFileReader.java
+END
+RealChunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/629/trunk/src/org/jaudiotagger/audio/real/RealChunk.java
+END

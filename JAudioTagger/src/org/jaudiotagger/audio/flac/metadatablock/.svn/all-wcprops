@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/1058/trunk/src/org/jaudiotagger/audio/flac/metadatablock
+END
+MetadataBlockDataPicture.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jaudiotagger~svn/!svn/ver/976/trunk/src/org/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataPicture.java
+END
+MetadataBlockHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jaudiotagger~svn/!svn/ver/1009/trunk/src/org/jaudiotagger/audio/flac/metadatablock/MetadataBlockHeader.java
+END
+MetadataBlockData.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/flac/metadatablock/MetadataBlockData.java
+END
+MetadataBlockDataSeekTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataSeekTable.java
+END
+MetadataBlockDataApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataApplication.java
+END
+MetadataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/flac/metadatablock/MetadataBlock.java
+END
+MetadataBlockDataCueSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataCueSheet.java
+END
+BlockType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jaudiotagger~svn/!svn/ver/512/trunk/src/org/jaudiotagger/audio/flac/metadatablock/BlockType.java
+END
+MetadataBlockDataPadding.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/src/org/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataPadding.java
+END
+MetadataBlockDataStreamInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jaudiotagger~svn/!svn/ver/1058/trunk/src/org/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataStreamInfo.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/test
+END
+MergeID3AndMP3Files.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/test/MergeID3AndMP3Files.java
+END
+ExtractID3TagFromFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/836/trunk/src/org/jaudiotagger/test/ExtractID3TagFromFile.java
+END
+TestAudioTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jaudiotagger~svn/!svn/ver/832/trunk/src/org/jaudiotagger/test/TestAudioTagger.java
+END

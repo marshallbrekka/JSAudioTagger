@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jaudiotagger~svn/!svn/ver/1050/trunk/srctest/org/jaudiotagger/tag/id3
+END
+FrameTSO2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/srctest/org/jaudiotagger/tag/id3/FrameTSO2Test.java
+END
+FrameULSTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/908/trunk/srctest/org/jaudiotagger/tag/id3/FrameULSTTest.java
+END
+ID3v11TagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/910/trunk/srctest/org/jaudiotagger/tag/id3/ID3v11TagTest.java
+END
+FrameTMEDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/870/trunk/srctest/org/jaudiotagger/tag/id3/FrameTMEDTest.java
+END
+CompressedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/873/trunk/srctest/org/jaudiotagger/tag/id3/CompressedTest.java
+END
+UnsynchronizationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/969/trunk/srctest/org/jaudiotagger/tag/id3/UnsynchronizationTest.java
+END
+FrameETCOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameETCOTest.java
+END
+FrameTDRCTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameTDRCTest.java
+END
+NewInterfaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jaudiotagger~svn/!svn/ver/1028/trunk/srctest/org/jaudiotagger/tag/id3/NewInterfaceTest.java
+END
+DeprecatedFrameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jaudiotagger~svn/!svn/ver/824/trunk/srctest/org/jaudiotagger/tag/id3/DeprecatedFrameTest.java
+END
+FrameTDTGTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/932/trunk/srctest/org/jaudiotagger/tag/id3/FrameTDTGTest.java
+END
+FrameTCMPTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/srctest/org/jaudiotagger/tag/id3/FrameTCMPTest.java
+END
+FrameTRCKTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/909/trunk/srctest/org/jaudiotagger/tag/id3/FrameTRCKTest.java
+END
+FramePCNTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FramePCNTTest.java
+END
+FrameTIPLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/923/trunk/srctest/org/jaudiotagger/tag/id3/FrameTIPLTest.java
+END
+FrameWOARTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameWOARTest.java
+END
+FrameTPE2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/869/trunk/srctest/org/jaudiotagger/tag/id3/FrameTPE2Test.java
+END
+DuplicateFrameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jaudiotagger~svn/!svn/ver/901/trunk/srctest/org/jaudiotagger/tag/id3/DuplicateFrameTest.java
+END
+FrameTXXXTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/868/trunk/srctest/org/jaudiotagger/tag/id3/FrameTXXXTest.java
+END
+FrameTDLYTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/869/trunk/srctest/org/jaudiotagger/tag/id3/FrameTDLYTest.java
+END
+FrameTPE4Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/870/trunk/srctest/org/jaudiotagger/tag/id3/FrameTPE4Test.java
+END
+Unicode23TagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/967/trunk/srctest/org/jaudiotagger/tag/id3/Unicode23TagTest.java
+END
+Unicode24TagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jaudiotagger~svn/!svn/ver/967/trunk/srctest/org/jaudiotagger/tag/id3/Unicode24TagTest.java
+END
+FrameWXXXTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/850/trunk/srctest/org/jaudiotagger/tag/id3/FrameWXXXTest.java
+END
+FrameTIT1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/869/trunk/srctest/org/jaudiotagger/tag/id3/FrameTIT1Test.java
+END
+FrameTIT3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/869/trunk/srctest/org/jaudiotagger/tag/id3/FrameTIT3Test.java
+END
+FileClosingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jaudiotagger~svn/!svn/ver/830/trunk/srctest/org/jaudiotagger/tag/id3/FileClosingTest.java
+END
+FrameTEXTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/870/trunk/srctest/org/jaudiotagger/tag/id3/FrameTEXTTest.java
+END
+Unicode23NullTerminatedTagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jaudiotagger~svn/!svn/ver/960/trunk/srctest/org/jaudiotagger/tag/id3/Unicode23NullTerminatedTagTest.java
+END
+Unicode24NullTerminatedTagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jaudiotagger~svn/!svn/ver/960/trunk/srctest/org/jaudiotagger/tag/id3/Unicode24NullTerminatedTagTest.java
+END
+FrameTPOSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/921/trunk/srctest/org/jaudiotagger/tag/id3/FrameTPOSTest.java
+END
+FrameTSOPTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/srctest/org/jaudiotagger/tag/id3/FrameTSOPTest.java
+END
+FrameTSOTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/813/trunk/srctest/org/jaudiotagger/tag/id3/FrameTSOTTest.java
+END
+FrameTDENTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/869/trunk/srctest/org/jaudiotagger/tag/id3/FrameTDENTest.java
+END
+ID3v22TagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/1040/trunk/srctest/org/jaudiotagger/tag/id3/ID3v22TagTest.java
+END
+FrameCOMMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameCOMMTest.java
+END
+FramePICAndAPICTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FramePICAndAPICTest.java
+END
+FrameSYLTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameSYLTTest.java
+END
+ID3v23TagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/902/trunk/srctest/org/jaudiotagger/tag/id3/ID3v23TagTest.java
+END
+FrameTDATTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/932/trunk/srctest/org/jaudiotagger/tag/id3/FrameTDATTest.java
+END
+ID3v24TagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/1050/trunk/srctest/org/jaudiotagger/tag/id3/ID3v24TagTest.java
+END
+ItunesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jaudiotagger~svn/!svn/ver/893/trunk/srctest/org/jaudiotagger/tag/id3/ItunesTest.java
+END
+FrameTLANTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameTLANTest.java
+END
+FrameTIMETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/932/trunk/srctest/org/jaudiotagger/tag/id3/FrameTIMETest.java
+END
+EmptyFrameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jaudiotagger~svn/!svn/ver/894/trunk/srctest/org/jaudiotagger/tag/id3/EmptyFrameTest.java
+END
+ConcurrentWritesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jaudiotagger~svn/!svn/ver/1042/trunk/srctest/org/jaudiotagger/tag/id3/ConcurrentWritesTest.java
+END
+FrameTSOATest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameTSOATest.java
+END
+FrameTOPETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameTOPETest.java
+END
+ID3v1TagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jaudiotagger~svn/!svn/ver/910/trunk/srctest/org/jaudiotagger/tag/id3/ID3v1TagTest.java
+END
+FrameTDORTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/932/trunk/srctest/org/jaudiotagger/tag/id3/FrameTDORTest.java
+END
+FrameTSOCTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameTSOCTest.java
+END
+FrameTPE1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/869/trunk/srctest/org/jaudiotagger/tag/id3/FrameTPE1Test.java
+END
+FrameRVADAndRVA2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FrameRVADAndRVA2Test.java
+END
+FrameTPUBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/870/trunk/srctest/org/jaudiotagger/tag/id3/FrameTPUBTest.java
+END
+FramePOPMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/FramePOPMTest.java
+END
+FrameTPE3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/869/trunk/srctest/org/jaudiotagger/tag/id3/FrameTPE3Test.java
+END
+FrameTMOOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/894/trunk/srctest/org/jaudiotagger/tag/id3/FrameTMOOTest.java
+END
+SyncSafeIntegerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jaudiotagger~svn/!svn/ver/625/trunk/srctest/org/jaudiotagger/tag/id3/SyncSafeIntegerTest.java
+END
+FrameTIT2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jaudiotagger~svn/!svn/ver/869/trunk/srctest/org/jaudiotagger/tag/id3/FrameTIT2Test.java
+END
